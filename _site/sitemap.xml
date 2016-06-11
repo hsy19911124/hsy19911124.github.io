@@ -59,6 +59,10 @@
     
     
         <url>
+            <loc>http://ithought.space/hello/</loc>
+        </url>
+  
+        <url>
             <loc>http://ithought.space/how-to-use/</loc>
         </url>
   
@@ -79,7 +83,7 @@
         </url>
   
         <url>
-            <loc>http://ithought.space/dica-rapida-1/</loc>
+            <loc>http://ithought.space/11dica-rapida-1/</loc>
         </url>
   
 </urlset>
