@@ -1,19 +1,4 @@
-
-layout: post
-title: "How to Use"
-date: 2016-05-08 20:35:48
-image: '/assets/img/'
-description: 'How to use this template'
-main-class: 'inspired'
-
-tags:
-- web
-- inspiration
-categories:
-twitter_text: 'How to use this template'
-introduction: 'How to use this template1231231'
 ---
-
 layout: post
 title: "青溪CRM"              
 date: 2016-06-17 12:35:48
