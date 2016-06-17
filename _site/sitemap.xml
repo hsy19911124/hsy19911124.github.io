@@ -2,15 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
+            <loc>http://ithought.space/%E5%BD%92%E6%A1%A3/PostFile/2015-01-07-11dica-rapida-1/</loc>
+        </url>
+    
+        <url>
+            <loc>http://ithought.space/%E5%BD%92%E6%A1%A3/PostFile/2015-12-04-analisando-seu-codigo-js-com-linter/</loc>
+        </url>
+    
+        <url>
+            <loc>http://ithought.space/%E5%BD%92%E6%A1%A3/PostFile/2016-05-08-how-to-use/</loc>
+        </url>
+    
+        <url>
+            <loc>http://ithought.space/%E5%BD%92%E6%A1%A3/PostFile/2016-05-08-welcome-to-jekyll/</loc>
+        </url>
+    
+        <url>
             <loc>http://ithought.space/about/index.html</loc>
         </url>
     
         <url>
-            <loc>http://ithought.space/category/css/</loc>
+            <loc>http://ithought.space/%E5%BD%92%E6%A1%A3/category/css/</loc>
         </url>
     
         <url>
-            <loc>http://ithought.space/category/dev/</loc>
+            <loc>http://ithought.space/%E5%BD%92%E6%A1%A3/category/dev/</loc>
         </url>
     
         <url>
@@ -18,23 +34,27 @@
         </url>
     
         <url>
-            <loc>http://ithought.space/category/html/</loc>
-        </url>
-    
-        <url>
             <loc>http://ithought.space/</loc>
         </url>
     
         <url>
-            <loc>http://ithought.space/category/jekyll/</loc>
+            <loc>http://ithought.space/category/inspired/</loc>
         </url>
     
         <url>
-            <loc>http://ithought.space/category/js/</loc>
+            <loc>http://ithought.space/%E5%BD%92%E6%A1%A3/category/jekyll/</loc>
         </url>
     
         <url>
-            <loc>http://ithought.space/category/misc/</loc>
+            <loc>http://ithought.space/%E5%BD%92%E6%A1%A3/category/js/</loc>
+        </url>
+    
+        <url>
+            <loc>http://ithought.space/%E5%BD%92%E6%A1%A3/category/misc/</loc>
+        </url>
+    
+        <url>
+            <loc>http://ithought.space/category/product/</loc>
         </url>
     
         <url>
@@ -50,7 +70,7 @@
         </url>
     
         <url>
-            <loc>http://ithought.space/category/svg/</loc>
+            <loc>http://ithought.space/%E5%BD%92%E6%A1%A3/category/svg/</loc>
         </url>
     
         <url>
@@ -59,19 +79,7 @@
     
     
         <url>
-            <loc>http://ithought.space/hello/</loc>
-        </url>
-  
-        <url>
             <loc>http://ithought.space/how-to-use/</loc>
-        </url>
-  
-        <url>
-            <loc>http://ithought.space/welcome-to-jekyll/</loc>
-        </url>
-  
-        <url>
-            <loc>http://ithought.space/analisando-seu-codigo-js-com-linter/</loc>
         </url>
   
         <url>
@@ -80,10 +88,6 @@
   
         <url>
             <loc>http://ithought.space/por-que-usar-svg/</loc>
-        </url>
-  
-        <url>
-            <loc>http://ithought.space/11dica-rapida-1/</loc>
         </url>
   
 </urlset>

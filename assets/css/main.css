@@ -707,7 +707,7 @@ body {
 
 .bar-header .logo a:after {
     transition: all .4s;
-    content: '</> AD';
+    content: 'iThoughtS';
 }
 
 @media only screen and (min-width:37.5rem) {
@@ -1991,104 +1991,104 @@ footer a {
     background-color: #d6ba32
 }
 
-.post-html .title-category {
+.post-inspired .title-category {
     color: #eb7728
 }
 
-.post-html .post-content h1,
-.post-html .post-content h2,
-.post-html .post-content h3,
-.post-html .post-content h4 {
+.post-inspired .post-content h1,
+.post-inspired .post-content h2,
+.post-inspired .post-content h3,
+.post-inspired .post-content h4 {
     color: #eb7728
 }
 
-.post-html .post-content a {
+.post-inspired .post-content a {
     color: #eb7728;
     border-bottom: 2px dashed #eb7728;
 }
 
-.post-html .post-content a:hover {
+.post-inspired .post-content a:hover {
     background-color: #eb7728;
     color: #fff
 }
 
-.post-html .post-content strong {
+.post-inspired .post-content strong {
     color: #eb7728
 }
 
-.post-html .post-content p code,
-.post-html .post-content li code {
+.post-inspired .post-content p code,
+.post-inspired .post-content li code {
     color: #eb7728
 }
 
-.post-html .post-content blockquote {
+.post-inspired .post-content blockquote {
     border-left: .313rem solid #eb7728
 }
 
-.post-html .header-post,
-.post-html .header-site {
+.post-inspired .header-post,
+.post-inspired .header-site {
     background-color: #eb7728;
 }
 
-.post-html .header-post h1,
-.post-html .header-site h1 {
+.post-inspired .header-post h1,
+.post-inspired .header-site h1 {
     text-shadow: 3px 3px #c95d13
 }
 
-.post-html .bar-header .logo a {
+.post-inspired .bar-header .logo a {
     color: #eb7728
 }
 
-.post-html .author .email {
+.post-inspired .author .email {
     color: #eb7728
 }
 
-.post-html .share a:hover svg {
+.post-inspired .share a:hover svg {
     fill: #eb7728
 }
 
 @media only screen and (max-width:37.5rem) {
-    .post-html body.search-overlay:after {
+    .post-inspired body.search-overlay:after {
         background-color: #eb7728
     }
 }
 
-.post-html .icon-menu {
+.post-inspired .icon-menu {
     fill: #eb7728
 }
 
-.post-html .box-body h2 {
+.post-inspired .box-body h2 {
     color: #eb7728
 }
 
-.post-html .box-body .tags a {
+.post-inspired .box-body .tags a {
     color: #eb7728;
     border: 1px solid #eb7728
 }
 
-.post-html aside {
+.post-inspired aside {
     background-color: #eb7728;
 }
 
-.post-html aside nav li a:hover {
+.post-inspired aside nav li a:hover {
     color: #eb7728
 }
 
-.post-html .ribbon span {
+.post-inspired .ribbon span {
     background-color: #eb7728;
 }
 
-.post-html .ribbon span:before {
+.post-inspired .ribbon span:before {
     border-left: 3px solid #b05110;
     border-top: 3px solid #b05110
 }
 
-.post-html .ribbon span:after {
+.post-inspired .ribbon span:after {
     border-right: 3px solid #b05110;
     border-top: 3px solid #b05110
 }
 
-.post-html footer {
+.post-inspired footer {
     background-color: #eb7728
 }
 
@@ -2294,103 +2294,103 @@ footer a {
     background-color: #637a91
 }
 
-.post-misc .title-category {
+.post-product .title-category {
     color: #7aab13
 }
 
-.post-misc .post-content h1,
-.post-misc .post-content h2,
-.post-misc .post-content h3,
-.post-misc .post-content h4 {
+.post-product .post-content h1,
+.post-product .post-content h2,
+.post-product .post-content h3,
+.post-product .post-content h4 {
     color: #7aab13
 }
 
-.post-misc .post-content a {
+.post-product .post-content a {
     color: #7aab13;
     border-bottom: 2px dashed #7aab13;
 }
 
-.post-misc .post-content a:hover {
+.post-product .post-content a:hover {
     background-color: #7aab13;
     color: #fff
 }
 
-.post-misc .post-content strong {
+.post-product .post-content strong {
     color: #7aab13
 }
 
-.post-misc .post-content p code,
-.post-misc .post-content li code {
+.post-product .post-content p code,
+.post-product .post-content li code {
     color: #7aab13
 }
 
-.post-misc .post-content blockquote {
+.post-product .post-content blockquote {
     border-left: .313rem solid #7aab13
 }
 
-.post-misc .header-post,
-.post-misc .header-site {
+.post-product .header-post,
+.post-product .header-site {
     background-color: #7aab13;
 }
 
-.post-misc .header-post h1,
-.post-misc .header-site h1 {
+.post-product .header-post h1,
+.post-product .header-site h1 {
     text-shadow: 3px 3px #62890f
 }
 
-.post-misc .bar-header .logo a {
+.post-product .bar-header .logo a {
     color: #7aab13
 }
 
-.post-misc .author .email {
+.post-product .author .email {
     color: #7aab13
 }
 
-.post-misc .share a:hover svg {
+.post-product .share a:hover svg {
     fill: #7aab13
 }
 
 @media only screen and (max-width:37.5rem) {
-    .post-misc body.search-overlay:after {
+    .post-product body.search-overlay:after {
         background-color: #7aab13
     }
 }
 
-.post-misc .icon-menu {
+.post-product .icon-menu {
     fill: #7aab13
 }
 
-.post-misc .box-body h2 {
+.post-product .box-body h2 {
     color: #7aab13
 }
 
-.post-misc .box-body .tags a {
+.post-product .box-body .tags a {
     color: #7aab13;
     border: 1px solid #7aab13
 }
 
-.post-misc aside {
+.post-product aside {
     background-color: #7aab13;
 }
 
-.post-misc aside nav li a:hover {
+.post-product aside nav li a:hover {
     color: #7aab13
 }
 
-.post-misc .ribbon span {
+.post-product .ribbon span {
     background-color: #7aab13;
 }
 
-.post-misc .ribbon span:before {
+.post-product .ribbon span:before {
     border-left: 3px solid #55780d;
     border-top: 3px solid #55780d
 }
 
-.post-misc .ribbon span:after {
+.post-product .ribbon span:after {
     border-right: 3px solid #55780d;
     border-top: 3px solid #55780d
 }
 
-.post-misc footer {
+.post-product footer {
     background-color: #7aab13
 }
