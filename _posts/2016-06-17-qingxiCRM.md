@@ -2,6 +2,7 @@
 layout: post
 title: "青溪CRM"              
 date: 2016-06-17 12:35:48
+image: '/assets/img/'
 description: '表头固顶，卡片/报表多样式展现数据，自定义搜索条件，'
 main-class: 'product'
 tags:
