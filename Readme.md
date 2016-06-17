@@ -1,4 +1,4 @@
-This is a personal inspiration and material bank made with [jekyll](http://jekyllrb.com/) by [Allen](http://huasiyao.com).
+This is a personal inspiration and material [bank](http://ithought.space) made with [jekyll](http://jekyllrb.com/) by [Allen](http://huasiyao.com).
 
 
 
