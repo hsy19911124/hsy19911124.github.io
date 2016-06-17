@@ -12,8 +12,8 @@ tags:
 - ue
 - table
 - form
+categories:
 introduction: '青溪CRM的表格、表单UE很值得参考'
-
 ---
 
 ### 产品介绍
