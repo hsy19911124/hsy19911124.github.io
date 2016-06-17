@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "qingxiCRM"              
-date: 2016-06-17 12:35:48
-description: '表头固顶，卡片/报表多样式展现数据，自定义搜索条件，'
+title: "青溪CRM"
+date: 2016-06-16 20:35:48
+description: '表头固顶，卡片/报表多样式展现数据，自定义搜索条件'
 main-class: 'product'
+
 tags:
 - app
 - web
@@ -11,7 +12,7 @@ tags:
 - ue
 - table
 - form
-introduction: '青溪CRM的表格、表单UE很值得参考'
+introduction: '表头固顶，卡片/报表多样式展现数据，自定义搜索条件'
 ---
 
 ### 产品介绍
