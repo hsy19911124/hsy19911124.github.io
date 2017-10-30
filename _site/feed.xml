@@ -5,20 +5,20 @@
     <description>A personal inspiration and material bank made by allen.</description>
     <link>http://ithought.space/</link>
     <atom:link href="http://ithought.space/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Jun 2016 13:51:00 +0800</pubDate>
-    <lastBuildDate>Fri, 17 Jun 2016 13:51:00 +0800</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <pubDate>Mon, 30 Oct 2017 09:12:01 +0800</pubDate>
+    <lastBuildDate>Mon, 30 Oct 2017 09:12:01 +0800</lastBuildDate>
+    <generator>Jekyll v3.5.2</generator>
     
       <item>
         <title>青溪CRM</title>
-        <description>&lt;h3 id=&quot;section&quot;&gt;产品介绍&lt;/h3&gt;
+        <description>&lt;h3 id=&quot;产品介绍&quot;&gt;产品介绍&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.v4crm.com/qingxi/f?p=9057:101&quot;&gt;青溪CRM&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;演示账号：bigboss/bigboss&lt;/p&gt;
 
 &lt;p&gt;客户与销售管理系统&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;亮点&lt;/h2&gt;
+&lt;h2 id=&quot;亮点&quot;&gt;亮点&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;表格的表头支持固顶（页面的框架可以参考）&lt;/li&gt;
   &lt;li&gt;枯燥的数据表格支持卡片/报表两种形式，数据量小或者以人为角度时，卡片形式更加直观&lt;/li&gt;
@@ -56,10 +56,12 @@ image: ‘/assets/img/’
 description: ‘构建学习型企业’
 main-class: ‘inspired’&lt;/p&gt;
 
-&lt;p&gt;tags:
-- inspiration
+&lt;p&gt;tags:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;inspiration
 introduction: ‘构建学习型企业’
-—&lt;/p&gt;
+—&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;面向的对象：中国中小型企业、大型企业&lt;/p&gt;
 
@@ -68,7 +70,7 @@ introduction: ‘构建学习型企业’
 &lt;blockquote&gt;
 
   &lt;ul&gt;
-    &lt;li&gt;中国的企业中，培训专员的岗位是不是很多？ &lt;/li&gt;
+    &lt;li&gt;中国的企业中，培训专员的岗位是不是很多？&lt;/li&gt;
     &lt;li&gt;有多少公司能够将人力资源中的培训单独拆分出来设立培训专员的岗位？&lt;/li&gt;
     &lt;li&gt;从培训专员的岗位来看，晋升的路线是什么？&lt;/li&gt;
   &lt;/ul&gt;
@@ -105,7 +107,7 @@ introduction: ‘构建学习型企业’
     
       <item>
         <title>有渔：翻转课堂</title>
-        <description>&lt;h2 id=&quot;section&quot;&gt;产品介绍&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;产品介绍&quot;&gt;产品介绍&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.youyu.im/&quot;&gt;有鱼&lt;/a&gt;&lt;/p&gt;
 
