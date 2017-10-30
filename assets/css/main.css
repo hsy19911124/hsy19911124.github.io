@@ -335,7 +335,7 @@ a.slideButton,
     border-radius: .188rem;
     width: 2.5rem;
     height: 2.5rem;
-    fill: #005f97
+    fill: #E97735
 }
 
 .icon-search {
@@ -700,7 +700,7 @@ body {
 }
 
 .bar-header .logo a {
-    color: #005f97;
+    color: #E97735;
     text-decoration: none;
     font-size: 1.75rem;
 }
