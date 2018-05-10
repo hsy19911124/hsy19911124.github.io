@@ -10,18 +10,6 @@ tags:
 categories:
 introduction: '构建学习型企业'
 ---
----
-layout: post
-title: "企业培训管理平台"
-date: 2016-06-17 20:35:48
-image: '/assets/img/'
-description: '构建学习型企业'
-main-class: 'inspired'
-
-tags:
-- inspiration
-introduction: '构建学习型企业'
----
 
 面向的对象：中国中小型企业、大型企业
 
