@@ -2,9 +2,10 @@
 description: A personal inspiration and material bank made by allen.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ithought.space" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: "ithoughtS"
 
 # User settings
-username: Allen
+username: HSY
 user_description: A man
 user_title: iThoughtS
 email: huasiyao@hotmail.com
